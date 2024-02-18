@@ -31,7 +31,7 @@ To try out the currency converter locally, follow these steps:
 
 ## Demo
 
-You can view a live demo of the Currency Converter by clicking [here](https://your-demo-link-here.com).
+You can view a live demo of the Currency Converter by clicking [here](https://gibrail404.github.io/Currency-Converter/).
 
 ## License
 
